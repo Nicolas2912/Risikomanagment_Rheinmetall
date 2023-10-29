@@ -5,10 +5,15 @@
 Rheinmetall AG ist ein deutsches Technologieunternehmen mit einem breiten Portfolio an Produkten und Dienstleistungen, insbesondere im Bereich der Verteidigungs- und Sicherheitstechnik. Das Unternehmen hat seinen Hauptsitz in Düsseldorf, Deutschland, und ist international tätig.
 
 Gründung: 13. April 1889
+
 Aufnahme in den DAX: 20. März 2023
+
 Leitung: Armin Papperger, Vorstandsvorsitzender
+
 Mitarbeiterzahl: 25.486 (2022)
+
 Umsatz: 6,4 Mrd. € (2022)
+
 Branche: Maschinenbau, Rüstungsindustrie, Automobilzulieferer
 
 Hier nochmal detailiertere Informationen: `https://de.marketscreener.com/kurs/aktie/RHEINMETALL-AG-436527/unternehmen/`
